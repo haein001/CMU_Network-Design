@@ -6,13 +6,13 @@
 Final Report for new design of the network
 
 
-# **Existing diagram of the network**
+## **Existing diagram of the network**
 ![image](https://github.com/haein001/CMU_Network-Design/assets/77334059/0722a2fd-cba8-4412-a612-139a44a8880b)
 
-# **New Updated Diagram of the Network**
+## **New Updated Diagram of the Network**
 ![image](https://github.com/haein001/CMU_Network-Design/assets/77334059/63fecd3b-8110-4d98-baf2-d3aa333727ff)
 
-# **Challenges with the Design**
+### **Challenges with the Design**
 
 - A lack of network border security. Configuring a firewall and adding effective rules
   
@@ -28,7 +28,7 @@ Final Report for new design of the network
 	
 - Using FTP instead of SFTP
 
-# **Changes**
+### **Changes**
 **For more details, see [**Final Report**](https://github.com/haein001/CMU_Network-Design/blob/5fa6bc06c03671655f55cdab48f99628a6f9510d/NIS%20Final%20Project%20Deliverable.pdf).**
 - VLAN Segmentation
 - IP addressing
