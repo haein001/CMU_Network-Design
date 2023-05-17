@@ -1,5 +1,4 @@
-# CMU_Network-Design
-Spring 2023, Network and Internet Security class
+*Spring 2023, Network and Internet Security class*
 
 [**Final Report**](https://github.com/haein001/CMU_Network-Design/blob/5fa6bc06c03671655f55cdab48f99628a6f9510d/NIS%20Final%20Project%20Deliverable.pdf)
 Final Report for new design of the network
